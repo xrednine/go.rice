@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/daaku/go.zipexe"
+	zipexe "github.com/42wim/go.zipexe"
 )
 
 // appendedBox defines an appended box
